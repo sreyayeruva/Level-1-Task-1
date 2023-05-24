@@ -1,0 +1,43 @@
+.heading-text{
+    color: white;
+    align-items: center;
+    
+
+}
+
+.image-decor{
+    border-radius: 60px;
+    box-shadow: 2px 2px 2px gray;
+}
+p{
+    color:black;
+}
+
+/* Selecting Element By Id Is Followed By # */
+#myheading{
+    color: blue;
+}
+#mydiv{
+    color: rgb(29, 117, 88);
+    background-color: cyan;
+}
+/class name selector starts with./
+.myclass{
+    color: cyan;
+}
+.about-section {
+    padding: 50px;
+    text-align: center;
+    background-color: #474e5d;
+    color: white;
+  }
+
+</style>
+</head>
+<body>
+<h1 style="color:teal; background-color: rgb(186, 210, 30); font-family:'Gill Sans','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Hello HummingBird</h1>
+
+<h1 style="color:teal; background-color: rgb(186, 210, 30); font-family:'Gill Sans','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif">Hello HummingBird</h1>
+
+<h1 id="myheading">TAJ MAHAL</h1>
+<p>This is <b>black</b></p>
